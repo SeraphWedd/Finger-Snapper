@@ -5,7 +5,7 @@ The uploaded codes, Sounds and images are all made by me. The sound was made wit
 
 The setup of the files are:
 
-+Game
+Game/
 
 +---main.py
 
@@ -17,15 +17,15 @@ The setup of the files are:
 
 +---instructions.png
 
-+---Audio
+Game/Audio/
 
-+------button.wav
++---button.wav
 
-+------coin2.wav
++---coin2.wav
 
-+------explosion.wav
++---explosion.wav
 
-+------instrumental.wav (not included)
++---instrumental.ogg (not included)
 
 
 
